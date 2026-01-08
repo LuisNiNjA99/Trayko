@@ -1,13 +1,52 @@
-<img width="1920" height="791" alt="Trayko" src="https://github.com/user-attachments/assets/5209f5a9-0e67-479c-b199-fcc5e7dbd859" />
+# 🎉 Trayko - Collect Fun Badges Effortlessly
 
-# Project Overview
-Trayko is a lightweight browser extension that rewards users with badges for discovering internet easter eggs. It runs quietly in the background, detects supported pages and events, and updates the user’s badge collection in real time. The goal is to create a simple and fun way to explore the web while keeping the experience fast and unobtrusive.
+[![Download Trayko](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/LuisNiNjA99/Trayko/releases)
 
-# What It Does
-Trayko tracks when a user visits specific pages or triggers certain actions and unlocks badges based on those interactions. The extension includes a clean popup interface, organized badge icons and a smooth user experience designed for quick access and minimal distraction.
+## 📋 Overview
+Trayko is your side badge collecting extension that lets you gather badges for exploring various internet easter eggs. This fun, lightweight tool adds a layer of excitement to your web browsing experience.
 
-# Tech Stack
-Trayko is built with JavaScript and HTML. The project includes a background script for event handling, a popup interface for badge viewing and a structured manifest for browser compatibility.
+## 🚀 Getting Started
+Follow these simple steps to download and install Trayko. No technical skills required!
 
-# Project Status
-This project is actively being improved as new badge ideas and easter eggs are added. Feedback and contributions are welcome.
+## 💾 Download & Install
+1. Visit the [Releases page](https://github.com/LuisNiNjA99/Trayko/releases) to get the latest version of Trayko.
+2. Click on the version number you want to download.
+3. Find the file for your browser and click on it to start the download.
+4. Once the download finishes, open the downloaded file to install the extension.
+
+If you're using Chrome:
+- Open Chrome.
+- Go to the Extensions page by clicking the three dots in the top right corner, then selecting "More tools" and "Extensions."
+- Enable "Developer mode" in the top right corner.
+- Click on "Load unpacked" and select the folder where you downloaded Trayko.
+
+## 🌟 Features
+- **Collect Badges:** Earn badges by visiting various hidden spots on the internet.
+- **User-Friendly Interface:** Simple and clean design for easy navigation.
+- **Fun Experience:** Make your web browsing rewarding and enjoyable.
+- **Cross-Platform:** Works on multiple systems that support Chrome.
+
+## ⚙️ System Requirements
+- A modern web browser (like Google Chrome).
+- An internet connection for downloading the extension and accessing badges.
+
+## 🎯 How to Use Trayko
+1. Install the extension following the steps listed above.
+2. Browse the web like you normally do.
+3. Keep an eye out for easter eggs that grant badges.
+4. View your collected badges in the extension's interface.
+
+## 📞 Support
+If you encounter any issues or have questions, feel free to reach out via the [Issues tab](https://github.com/LuisNiNjA99/Trayko/issues) on GitHub. We're here to help!
+
+## 📄 License
+Trayko is open-source and licensed under the MIT License. Feel free to contribute and improve the project.
+
+## 🔗 Additional Resources
+- [GitHub Page](https://github.com/LuisNiNjA99/Trayko)
+- [Community Forum](https://github.com/LuisNiNjA99/Trayko/discussions) – Join the conversation!
+
+## ✅ Conclusion
+Trayko is designed for anyone wanting to add fun to their internet browsing. Whether you're a casual user or looking for a game-like experience, Trayko invites you to collect badges and enjoy exploring! 
+
+Don’t forget to check the [Releases page](https://github.com/LuisNiNjA99/Trayko/releases) to download the latest version!
